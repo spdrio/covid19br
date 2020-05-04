@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-git fetch covid19br
-git merge covid19br/master
